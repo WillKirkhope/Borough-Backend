@@ -12,8 +12,8 @@
 
 ## Deployed Front-End Link ##
 
-- 'https://openvillage-8d44b.firebaseapp.com/#/'
+- https://the-borough.firebaseapp.com/#/
 
 ## Front-End GitHub Repo ##
 
-- 'https://github.com/WillKirkhope/Group-Proj-Frontend'
+- https://github.com/WillKirkhope/Borough-FrontEnd
